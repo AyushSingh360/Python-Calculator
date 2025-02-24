@@ -1,4 +1,3 @@
-Python Calculator
 Welcome to the Python Calculator project! This calculator performs basic arithmetic operations and includes some advanced mathematical functions, all wrapped in a user-friendly interface.
 
 Features
@@ -60,10 +59,6 @@ Select an operation:
 7 - Logarithm (log)
 8 - Exit
 
-Enter your choice (1-8): 8
 
-Goodbye!
-Contributing
 Feel free to fork this repository and submit pull requests. Whether it's bug fixes, new features, or improvements, all contributions are welcome!
 
-License
