@@ -25,7 +25,6 @@ Navigate to the directory containing the calculator script.
 
 Run the script using Python:
 
-
 python calculator.py
 Follow the on-screen prompts to select operations and input numbers.
 
